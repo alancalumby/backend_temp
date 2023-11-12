@@ -1,0 +1,12 @@
+{
+    "adquirente": [
+      {
+        "codigo_adquirente": 1,
+        "nome_adquirente": "adq1"
+      },
+      {
+        "codigo_adquirente": 2,
+        "nome_adquirente": "adq2"
+      }
+    ]
+  }
