@@ -2,21 +2,22 @@
   "adquirente": [
     {
       "id": 1,
-      "codigo_adquirente": "1",
+      "codigo_adquirente": "abc",
       "nome_adquirente": "calumb",
-      "codigo_adquirente_confaz" : "1"
+      "codigo_adquirente_confaz": "1",
+      "cod_adquirente_confaz": "abc"
     },
     {
       "codigo_adquirente": "a",
       "nome_adquirente": "a",
       "id": 3,
-      "codigo_adquirente_confaz" : "a"
+      "codigo_adquirente_confaz": "a"
     },
     {
       "codigo_adquirente": "h665",
       "nome_adquirente": "retre",
       "id": 4,
-      "codigo_adquirente_confaz" : "h665"
+      "codigo_adquirente_confaz": "h665"
     }
   ],
   "bandeira": [
